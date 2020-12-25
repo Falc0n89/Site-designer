@@ -1,0 +1,42 @@
+body {
+    background-color: aliceblue;
+    align-content: center;
+    /*text-align: center; */
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+/* font-family: 'Nova Flat', cursive;
+
+font-family: 'Open Sans', sans-serif;
+
+font-family: 'Roboto Mono', monospace; */
+
+body p {
+    font-family: 'Nova Flat', cursive;
+}
+
+#colors {
+    box-sizing: border-box;
+    border: solid black 1px;
+    height: 20rem;
+    width: 50rem;
+    margin-right: auto;
+}
+
+#fonts {
+    box-sizing: border-box;
+    border: solid black 1px;
+    height: 20rem;
+    width: 50rem;
+    margin-right: auto;
+}
+
+#textstyles {
+    box-sizing: border-box;
+    border: solid black 1px;
+    height: 20rem;
+    width: 50rem;
+    margin-right: auto;
+}
